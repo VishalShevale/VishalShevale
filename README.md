@@ -35,14 +35,4 @@ Python-Flask - MindLuster
 Advanced Python + DSA - TalentBattle
 Web Development - MindLuster
 
-🌟 Let's Connect
-Email: vishalshevale15593@gmail.com
-
-LinkedIn: linkedin.com/in/vishal-shevale
-
-GitHub: github.com/VishalShevale
-
-LeetCode: leetcode.com/Vishal_Shevale
-
-HackerRank: hackerrank.com/vishalshevale151
 

@@ -24,16 +24,25 @@ Blogging Web Application
 
 Simplified content creation and management for users.
 Technologies: Flask, Python, MySQL, HTML, CSS
+
 🏆 Achievements
+
 Solved 150+ LeetCode questions demonstrating strong problem-solving and analytical abilities.
 Published 22 technical articles on GeeksforGeeks, covering data structures, algorithms, and web technologies.
+
 📜 Certifications
 Python-Flask - MindLuster
 Advanced Python + DSA - TalentBattle
 Web Development - MindLuster
+
 🌟 Let's Connect
 Email: vishalshevale15593@gmail.com
+
 LinkedIn: linkedin.com/in/vishal-shevale
+
 GitHub: github.com/VishalShevale
+
 LeetCode: leetcode.com/Vishal_Shevale
+
 HackerRank: hackerrank.com/vishalshevale151
+
